@@ -1,0 +1,11 @@
+E:\MyProject\Memo.Shared\bin\Debug\net6.0\Memo.Shared.deps.json
+E:\MyProject\Memo.Shared\bin\Debug\net6.0\Memo.Shared.dll
+E:\MyProject\Memo.Shared\bin\Debug\net6.0\Memo.Shared.pdb
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\Memo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\Memo.Shared.AssemblyInfoInputs.cache
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\Memo.Shared.AssemblyInfo.cs
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\Memo.Shared.csproj.CoreCompileInputs.cache
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\Memo.Shared.dll
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\refint\Memo.Shared.dll
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\Memo.Shared.pdb
+E:\MyProject\Memo.Shared\obj\Debug\net6.0\ref\Memo.Shared.dll
