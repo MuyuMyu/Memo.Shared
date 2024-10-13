@@ -1,0 +1,5 @@
+E:\MyProject\Memo.Shared\obj\Debug\net472\Memo.Shared.csproj.AssemblyReference.cache
+E:\MyProject\Memo.Shared\obj\Debug\net472\Memo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\Memo.Shared\obj\Debug\net472\Memo.Shared.AssemblyInfoInputs.cache
+E:\MyProject\Memo.Shared\obj\Debug\net472\Memo.Shared.AssemblyInfo.cs
+E:\MyProject\Memo.Shared\obj\Debug\net472\Memo.Shared.csproj.CoreCompileInputs.cache
